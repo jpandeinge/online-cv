@@ -7,23 +7,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Joseph Mwatukange
+    tagline: Customer Experience Administrator (OM)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: jmwatukange9@gmail.com
+    phone: +264 81 4284314
+    timezone: GMT+2 Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+#     website: blog.webjeda.com #do not add http://
+    linkedin: joseph mwatukange
+#     xing: alandoe
+    github: jpandeinge
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@jpandeinge'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,163 +32,159 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Oshikwanyama
           level: Native
+          
+        - idiom: English
+          level: Professional (C1)
+         
 
-        - idiom: French
-          level: Professional
+#         - idiom: French
+#           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+#         - idiom: Spanish
+#           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+#     interests:
+#       title: Interests
+#       info:
+#         - item: Video Gaming
+#           link:
 
-        - item: Snowboarding
-          link:
+#         - item: Cycling
+#           link:
 
-        - item: Cooking
-          link:
+#         - item: Cooking
+#           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As a customer experience administrator at Old Mutual Namibia,
+      my duties include extracting and analysing data, creating reports, and doing research 
+      to enhance the customer experience. I seek to use data science and NLP techniques to assist informed business decisions.
+      I have good Python programming skills and substantial experience in big data, machine learning, and data visualisation.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: MScR in Astronomy & Astrophysics
+        university: University of Manchester
+        time: 2021 - 2012
+#         details: |
+#           Applied machine learning to the study of star formation by utilising spectral line data for methyl cyanide species.
+#           Conducted wavelet-based signal decomposition of methyl cyanide's spectral line emission and used multi-output regression with random forest
+#           , extreme boosting, and neural networks to predict initial parameters and reconstruct signals from the wavelet decomposition method.
+#             - Bullet point
+#             - Bullet point
+      - degree: MSc in Renewable Energy
+        university: University of Namibia
+        time: 2018 - 2020
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
+
+       - degree: BSc in Physics 
+               university: University of Namibia
+               time: 2013 - 2016
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Customer Experience Administrator 
+        time: 2013 - Present
+        company: Old Mutual Namibia, Windhoek
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Extract data from internal and external sources.
+            - Develop and implement query and pre-processing programmes.
+            - Create business reports for ad-hoc and repetitive MIS requirements.
+            - Conduct studies and research to improve the customer experience.
+            - Coordinate data extraction and input for integrated data sets in customer experience management.
+            - Meet with internal clients, understand their business requirements, and analyse data support requirements to direct data analysis and reporting.
+      - role: Junior Software Developer
+        time: Mar 2021 - Aug 2021
+        company: Colab Technical CC, Walvis Bay
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            -  Develop custom finance and management software based on client requirements using C#,.NET Core, and the Blazor Framework.
+            - Analyse stock data utilising SQL, ELK Stack, and Google Refine.
+            - Regularly communicate project progress updates to stakeholders.
+#       - role: UI Developer
+#         time: 2012 - 2014
+#         company: Amazon, London
+#         details: |
+#           Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#           Cum sociis natoque penatibus et magnis dis parturient montes,
+#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#           pellentesque eu, pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Translation Website
+        link: "#https://translate.meyabase.com/?sl=en&tl=ng"
+        tagline: "Designed and developed a translation website, Meyabase Translate specifically catering to the translation needs of English to Oshindonga, a low-resource language."
+ 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Crowdsourcing Website
+        link: "#https://contribute.meyabase.com/"
+        tagline: "A crowdsourcing website for low-resource languages in Namibia, facilitating the preservation and promotion of endangered languages."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+    conference papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Findings from the Bambara - French Machine Translation Competition (BFMT 2023)"
+        link: "https://aclanthology.org/2023.loresmt-1.9/"
+        authors: Ninoh Agostinho Da Silva, Tunde Ajayi, Alex Antonov, Panga Azazia Kamate, Moussa Coulibaly, Mason Del Rio, Yacouba Diarra, Sebastian Diarra, Chris Emezue, Joel Hamilcaro
+        conference: "Proceedings of the The Sixth Workshop on Technologies for Machine Translation of Low-Resource Languages (LoResMT 2023)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
@@ -196,26 +192,29 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+#         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Power BI
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: NLP
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PyTorch
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Matplotlib
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: AWS Sagemaker
+#         level: 60%
+
+      - name: AWS S3 Bucket
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
